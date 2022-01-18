@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func printInfo(){
+        print("Hello i'am Nora alahmadi")
+    }
+}
 
 }
 
