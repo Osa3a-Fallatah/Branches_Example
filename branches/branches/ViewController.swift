@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         print("Hi all   ")
     }
 
-
+    func printInfo(){
+        print("Hello i'am Nora alahmadi")
+    }
 }
+
 
